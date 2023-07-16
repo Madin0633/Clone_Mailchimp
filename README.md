@@ -9,16 +9,16 @@ MyMailchimpClone is an upcoming email marketing platform that aims to provide us
 
 ## Getting Started
 
-To view the landing page, simply visit [INSERT LANDING PAGE URL HERE]. 
+To view the landing page, 
 
 ## Contributing
 
-We welcome contributions to enhance the landing page and make it even better! If you have any suggestions or would like to contribute to the project, please follow the guidelines outlined in [CONTRIBUTING.md](link-to-contributing.md).
+We welcome contributions to enhance the landing page and make it even better! If you have any suggestions or would like to contribute to the project...
 
 
 ## Contact
 
-If you have any questions, feedback, or inquiries, feel free to reach out to our team at [email@example.com].
+If you have any questions, feedback, or inquiries, feel free to reach out me  at madinkhan0633@gmail.com.
 
 We appreciate your interest in MyMailchimpClone!
 
